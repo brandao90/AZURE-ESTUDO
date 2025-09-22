@@ -29,7 +29,7 @@ Aqui está um guia de como o projeto foi executado e as principais etapas para q
 #### **3. Análise de Áudio (Speech Studio)**
 
 * **Transcrição de Fala:** Para entender como seria a análise de voz, utilizei o **Speech Studio** para transcrever um pequeno áudio em português.
-* **Conexão com Análise de Sentimentos:** A etapa de transcrição é o ponto de entrada para a análise de sentimentos em áudios. O texto gerado pode ser enviado para o Language Studio, completando o ciclo da análise. Foi impressionante ver a precisão da transcrição e a rapidez do processo.
+* **Conexão com Análise de Sentimentos:** A etapa de transcrição é o ponto de entrada para a análise de sentimentos em áudios. O texto gerado pode ser enviado para o Language Studio, completando o ciclo da análise. Foi impressionante ver a precisão da transcrição e a rapidez do processo ...
 
 ---
 
